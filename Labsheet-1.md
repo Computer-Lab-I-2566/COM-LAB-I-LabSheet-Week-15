@@ -1,8 +1,7 @@
 # COM-LAB-I-LabSheet-Week-15
 ##  C# Unit test and github CI/CD
 
-18. ส่ง project ขึ้นบน  github
-
+18.ส่ง project ขึ้นบน  github
 
 ![Alt text](./Pictures/Picture-18.png)
 
@@ -11,30 +10,27 @@
 3. ดูให้แน่ใจว่า Local path ที่เลือก มี folder ของ project ทั้งสองปรากฏอยู่
 4. กด Select folder
 
-19. Push และตามไปตรวจสอบบน github server 
+19.Push และตามไปตรวจสอบบน github server 
 
 ![Alt text](./Pictures/Picture-19.png)
 
 - เพื่อความสะดวก สามารถคลิก ... แล้วเลือก Open in Browser ได้
 
-20. บน github server จะต้องเห็น folder ของโปรเจคทั้งสองอยู่ข้างกัน
+20.บน github server จะต้องเห็น folder ของโปรเจคทั้งสองอยู่ข้างกัน
 
 ![Alt text](./Pictures/Picture-20.png)
 
 - กดปุ่ม  Actions
 
-21. เลือก .NET Desktop กด Configure
+21.เลือก .NET Desktop กด Configure
 
 ![Alt text](./Pictures/Picture-21.png)
 
-
-22. จะได้หน้าจอแบบนี้
-
+22.จะได้หน้าจอแบบนี้
 
 ![Alt text](./Pictures/Picture-22.png)
 
-
-23. แก้ไข code ในไฟล์ dotnet-desktop.yml ให่้เป็นดังนี้
+23.แก้ไข code ในไฟล์ dotnet-desktop.yml ให่้เป็นดังนี้
 
 ```yml
 # This workflow uses actions that are not certified by GitHub.
@@ -117,28 +113,25 @@ jobs:
         run: vstest.console.exe TestProject.dll /Tests:TestProjectMembersCount
 ```
 
-24. commit สิ่งที่ได้แก้ไข ใน repository จะมี folder เพิ่มขึ้นมาเพื่อเป็นที่เก็บไฟล์ yml ที่ทำหน้าที่ CI/CD 
+24.commit สิ่งที่ได้แก้ไข ใน repository จะมี folder เพิ่มขึ้นมาเพื่อเป็นที่เก็บไฟล์ yml ที่ทำหน้าที่ CI/CD 
 
 ![Alt text](./Pictures/Picture-23.png)
 
-
-25. กดปุ่ม  Actions ในหน้า repository
+25.กดปุ่ม  Actions ในหน้า repository
 
 ![Alt text](./Pictures/Picture-24.png)
 
 - คลิกที่ Create dotnet-desktop.yml เพื่อดูความคืบหน้าในการทดสอบ
 
-26. กระบวนการ CI/CD จะเริ่มทำงานตาม script ในไฟล์ yml ที่เราแก้ไขไป
+26.กระบวนการ CI/CD จะเริ่มทำงานตาม script ในไฟล์ yml ที่เราแก้ไขไป
 
 ![Alt text](./Pictures/Picture-25.png)
 
-27. กระบวนการทดสอบ ควรจะมี error เช่นเดียวกับใน Visual studio
+27.กระบวนการทดสอบ ควรจะมี error เช่นเดียวกับใน Visual studio
 
 ![Alt text](./Pictures/Picture-26.png)
 
-
-28. กลับไปที่่ Visual studio 
-
+28.กลับไปที่่ Visual studio
 
 ![Alt text](./Pictures/Picture-27.png)
 
@@ -146,31 +139,22 @@ jobs:
 - ทดสอบ โดยเรียกเมนู Test -> Run All Tests
 - ควรจะได้ผลการทดสอบเป็นผ่าน ดังรูปด้านบน
 
-29. ไปที่ git bash ใน Terminal view
+29.ไปที่ git bash ใน Terminal view
 
 ![Alt text](./Pictures/Picture-28.png)
 
-- git status 
+- git status
+
 - git commit
+
 - git push ซึ่งควรจะมี error เนื่องจากมีการ update ที่บน github server ดังนั้นต้องทำคำสั่ง git pull
+
 - git pull
 
-
-30. เมื่อ push ขึ้นบน server กระบวนการตรวจสอบอัตโนมัติจะเริ่มทำงาน
+30.เมื่อ push ขึ้นบน server กระบวนการตรวจสอบอัตโนมัติจะเริ่มทำงาน
 
 ![Alt text](./Pictures/Picture-29.png)
 
 - ตรวจสอบได้จากการกดปุ่ม Actions
 
 ### [>> ยังไม่จบ มีต่ออีกนิด >>](./Labsheet-2.md)
-
-
-
-
-
-
-
-
-
-
-
