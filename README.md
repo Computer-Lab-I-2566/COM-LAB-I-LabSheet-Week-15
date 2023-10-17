@@ -153,7 +153,9 @@ namespace Project_6xxxxxxx
 ![Alt text](./Pictures/Picture-17.png)
 
 
->> ต่อไป ส่งขึ้น github >>
+ยังไม่ต้องแก้ไขใด ๆ เพราะเราจะไปทดสอบบน github ว่าสามารถพบที่ผิดนี้หรือไม่
+
+### [>> ต่อไป ส่งขึ้น github >>](./Labsheet-1.md)
 
 
 
