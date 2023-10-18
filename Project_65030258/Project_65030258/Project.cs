@@ -8,5 +8,12 @@ namespace Project_65030258
 {
     internal class Project
     {
+        public enum Members
+        {
+            Arm = 1,
+            Tiew = 2,
+            Ping = 3,
+
+        }
     }
 }
