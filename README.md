@@ -79,6 +79,8 @@ namespace Project_6xxxxxxx
 - ชื่อที่แสดงต้องเป็นชื่อสมาชิกในกลุ่ม 
 
 - capture มาให้ดูด้วยนะจ๊ะ
+- ![image](https://github.com/65030121natthamon/COM-LAB-I-LabSheet-Week-15/assets/144195611/dda885d3-5790-4b95-9458-a68c6f8a7888)
+นี่จ้าา
 
 8.เพิ่ม project ใหม่สำหรับ Test Unit
 
