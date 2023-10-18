@@ -1,4 +1,4 @@
-  using Project_65030258;
+using Project_65030258;
 
 namespace TestProject
 {
@@ -6,7 +6,7 @@ namespace TestProject
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestProjectMembersCount()
         {
             Assert.IsTrue(Enum.GetNames(typeof(Project.Members)).Length == 3);
         }

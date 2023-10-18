@@ -98,3 +98,8 @@ D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\obj\Debug\net6.0\Test
 D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
 D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\obj\Debug\net6.0\ref\TestProject.dll
 D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\bin\Debug\net6.0\Project_65030258.deps.json
+D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\bin\Debug\net6.0\Project_65030258.runtimeconfig.json
+D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\bin\Debug\net6.0\Project_65030258.exe
+D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\bin\Debug\net6.0\Project_65030258.dll
+D:\COM-LAB-I-LabSheet-Week-15\Project_65030258\TestProject\bin\Debug\net6.0\Project_65030258.pdb

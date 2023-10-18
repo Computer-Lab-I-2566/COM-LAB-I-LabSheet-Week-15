@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_65030258
 {
-    internal class Project
+    public class Project
     {
         public enum Members
         {
