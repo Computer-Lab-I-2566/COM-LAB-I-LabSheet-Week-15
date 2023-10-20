@@ -6,6 +6,8 @@ https://github.com/AnchisaPhetnoi/Project_65030289
 ## รูปที่ 2
 ![393774543_382518314104359_1574968454204316028_n](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-15/assets/144197034/ca0e8877-6ada-4738-8c75-0acdc3e33802)
 ## รูปที่ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-15/assets/144197034/8f3b0b51-e56d-4c92-9712-5cb46c2e445b)
+
 ![368281368_1815876448815010_285109492636123752_n](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-15/assets/144197034/4b6206b9-7e04-4ca8-97d6-a6c1859e37e3)
 ## รูปที่ 4
 ![393971375_267982722340826_3358165320417803358_n](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-15/assets/144197034/d3d8577c-5aa0-4b5c-a943-9719a7504bd5)
